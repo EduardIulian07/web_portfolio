@@ -13,9 +13,9 @@ with col1:
 with col2:
     st.title("ATODIRESEI Eduard Iulian")
     description = """
-    Hello! I'm Eduard and I am a second year student a University Politehnica of Bucharest at the Faculty of electronics
-    and I am very passionate about everything that includes technology. Currently I am working with my team , "FunkyBits", 
-    on a project of building a fully autonomous 1:10 scale vehicle that is supposed to behave just like in a real-life 
+    Hello! I'm Eduard and I am a second year student at University Politehnica of Bucharest at the Faculty of electronics
+    and I am very passionate about everything that implies technology. Currently I am working with my team , "FunkyBits", 
+    on a project of building a fully autonomous 1:10 scale vehicle that is supposed to behave just like in a real-life driving
     case scenario.
     """
     st.info(description)
